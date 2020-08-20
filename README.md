@@ -22,7 +22,7 @@ The villagers travel between different places in the game world. One of the plac
 The dynamic quest mechanism of this game can be improvised into other games to make them more engaging and increase game replay value.
 
 ## Links
-[Download](https://github.com/itsarjunsinh/MegaFight/releases/) | [Gameplay on YouTube](https://youtube.com/watch?v=4X1j2HhcJiY).
+[Download](https://github.com/itsarjunsinh/MegaFight/releases/) | [Watch Gameplay](https://youtube.com/watch?v=4X1j2HhcJiY)
 
 The project report is available to students upon request.
 
