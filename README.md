@@ -15,7 +15,7 @@ The player can initiate combat with the Monster anytime by going near it. Player
 
 ### Systemic Game Design
 
-The villagers travel between different places in the game world. One of the places is the woods where the Monster resides. If a villager ventures alone into it, they will get trapped there. However, when another villager spots someone trapped with the monster then they will run and ask the hero character to save the trapped villager.
+The villagers travel between different places in the game world. One of the places is the woods where the Monster resides. If a villager ventures alone into it, they will get trapped there. However, when another villager spots someone trapped with the monster then they will run and ask the hero character to save the trapped villager. The NPCs (non-playable characters) are aware of the game world, they interact with each other and the player to make the game dynamic.
 
 ![NPC comes to player with quest](img/Quest.png)
 
